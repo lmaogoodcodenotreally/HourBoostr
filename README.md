@@ -8,7 +8,7 @@ _____
 - Added Bulk Add
 - In the process of adding bulk edit
 
-"Bulk" file format:
+[txt] "Bulk" file format
 ```
 user:pass
 user:pass
