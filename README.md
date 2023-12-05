@@ -7,6 +7,15 @@ _____
 _____
 - Added Bulk Add
 - In the process of adding bulk edit
+
+"Bulk" file format:
+```
+user:pass
+user:pass
+user:pass
+[...]
+```
+
 _____
 
 
