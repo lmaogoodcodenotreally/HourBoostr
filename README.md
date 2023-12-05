@@ -1,8 +1,11 @@
 # This fork has been made public so lazy ppl like me who want to boost thousand of account easily can in 2 clicks
-- Added Bulk Add
-![image](https://github.com/lmaogoodcodenotreally/HourBoostr/assets/147619006/068e2ae3-2f71-4a65-b57c-5419bd50cb11)
-- In the process of adding bulk edit
 
+![image](https://github.com/lmaogoodcodenotreally/HourBoostr/assets/147619006/068e2ae3-2f71-4a65-b57c-5419bd50cb11)
+
+
+_____
+- Added Bulk Add
+- In the process of adding bulk edit
 
 
 
